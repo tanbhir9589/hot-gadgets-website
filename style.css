@@ -1,0 +1,27 @@
+.container{
+    margin: 100px;
+}
+.navbar img{
+    height: 50px;
+}
+
+.buy-now-button{
+    background-color: black;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+.conousel-bg{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: small;
+}
+.see-all h6{
+    color: goldenrod;
+}
+.card{
+  margin: 30px;
+  box-shadow: 5px 5px 10px gray;
+  text-align: center;
+}
