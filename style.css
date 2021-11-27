@@ -25,3 +25,43 @@
   box-shadow: 5px 5px 10px gray;
   text-align: center;
 }
+.cat h5{
+    text-align: center;
+    font-size: 30px;
+   
+}
+.cat-img-1{
+    float: center;
+     padding: 10px 10px;
+    margin-top: 120px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px lightgray;
+}
+.cat-img-2{
+    border-radius: 5px;
+    padding: 10px 10px;
+    
+    box-shadow: 2px 2px 5px lightgray;
+    margin-bottom: 40px;
+}
+.cat-img-3{
+    border-radius: 5px;
+    padding: 10px 10px;
+    box-shadow: 2px 2px 5px lightgray;
+}
+.cat-img-4 img{
+    width: 100%;
+}
+.cat p{
+    background-image: linear-gradient(to right, #ffc31f,#ff9c35);
+    height: 8px;
+    width: 80px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 44px;
+    margin-left: 510px;
+    
+}
+footer{
+    text-align: center;
+}
